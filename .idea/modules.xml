@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springcloud-parent.iml" filepath="$PROJECT_DIR$/springcloud-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-consumer/springcloudconsumer.iml" filepath="$PROJECT_DIR$/springcloud-consumer/springcloudconsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-provider/springcloudprovider.iml" filepath="$PROJECT_DIR$/springcloud-provider/springcloudprovider.iml" />
+    </modules>
+  </component>
+</project>
